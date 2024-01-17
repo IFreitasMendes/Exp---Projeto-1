@@ -43,6 +43,12 @@
 footer {
   margin: 80px 4px auto auto;
 }
+#line {
+  width: 568px;
+  height: 0;
+  margin: auto;
+  border: 1px solid rgb(155, 153, 153);              
+}
 ul {
   list-style: none;
   display: flex;
